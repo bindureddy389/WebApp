@@ -1,0 +1,7 @@
+/Users/himabindugarlapati/Desktop/AzureProjects/azure-webapp/publish/azure-webapp
+/Users/himabindugarlapati/Desktop/AzureProjects/azure-webapp/publish/appsettings.Development.json
+/Users/himabindugarlapati/Desktop/AzureProjects/azure-webapp/publish/appsettings.json
+/Users/himabindugarlapati/Desktop/AzureProjects/azure-webapp/publish/azure-webapp.dll
+/Users/himabindugarlapati/Desktop/AzureProjects/azure-webapp/publish/azure-webapp.deps.json
+/Users/himabindugarlapati/Desktop/AzureProjects/azure-webapp/publish/azure-webapp.runtimeconfig.json
+/Users/himabindugarlapati/Desktop/AzureProjects/azure-webapp/publish/azure-webapp.pdb
